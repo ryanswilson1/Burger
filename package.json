@@ -1,0 +1,25 @@
+{
+    "name": "burger",
+    "version": "1.0.0",
+    "description": "This is a burger app to keep track of bugers the user has eaten",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ryanswilson1/Burger.git"
+    },
+    "author": "Ryan Wilson",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ryanswilson1/Burger/issues"
+    },
+    "homepage": "https://github.com/ryanswilson1/Burger#readme",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "express-handlebars": "^5.2.0",
+        "mysql": "^2.18.1"
+    }
+}
